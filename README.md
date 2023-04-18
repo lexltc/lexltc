@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/lexltc/lexltc/main/images/cover.jpeg)
+![](https://raw.githubusercontent.com/lexltc/lexltc/main/images/cover.jpeg)
 
 
 <h1>👋 I'm Lex</h1>
