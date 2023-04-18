@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lex</h1>
-<h3 align="center">Creative and innovative developer with background in Agile development and leading initiatives.</h3>
+(https://raw.githubusercontent.com/lexltc/lexltc/main/images/cover.jpeg)
+
+
+<h1>👋 I'm Lex</h1>
+<h3>Creative and innovative developer with background in Agile development and leading initiatives.</h3>
+
+Skilled in variety of full-stack web development technologies including React, TypeScript, Node, and Rust, Android application development and experience in designing and implementing software architectures.
 
 - 💬 Ask me about **React, web development, Agile, Android**
 
